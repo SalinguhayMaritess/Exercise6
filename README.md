@@ -1,2 +1,1 @@
-#Style Sheet
-Exercise 6
+This exercise shows a way to beautify an HTML file using a style sheet.
